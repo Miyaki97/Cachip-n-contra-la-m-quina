@@ -1,0 +1,1 @@
+let nJuegos = +prompt("Cantidad de juegos");
