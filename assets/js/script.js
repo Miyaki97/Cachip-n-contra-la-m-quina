@@ -48,11 +48,12 @@ for (let i = 0; i < nJuegos; i++) {
 }
 
 if (puntosUsuario > puntosPc) {
-    mensaje = "¡Ganasteee!!";
+    mensaje = "¡¡Ganasteee, wuju!! Le has ganado a la máquina 🍀";
 } else if (puntosUsuario === puntosPc) {
-    mensaje = "Empate total";
+    mensaje = "Nada que agregar, es un empate limpio✌️";
 } else {
-    mensaje = "Perdiste contra el PC!! Sigue intentando";
+    mensaje = " Haz perdido, ¡contra la máquina!🤖";
+    
 }
 
 alert(mensaje) 
